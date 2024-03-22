@@ -1,3 +1,2 @@
-# alx-higher_level_programming
-0x00. Python
-python programming language
+Python and Javascript
+Alx higher level programming
